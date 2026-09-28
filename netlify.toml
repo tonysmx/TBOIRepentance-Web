@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/games/boir/*"
+  to = "https://bog.n8-math.dev/games/boir/:splat"
+  status = 200
+  force = true
